@@ -1,6 +1,6 @@
 cask "lokyr" do
-  version "1.0.0"
-  sha256 "db94738a04f23ed7a090878faedd1393d606168b020dfdc761f758a7002f5ecf"
+  version "1.1.0"
+  sha256 "3b34fbcd18b76d1f9ed999e9dc112dc645690ed46b8731a71ebef2181dc2e87a"
 
   url "https://github.com/sephiroth74/lokyr/releases/download/v#{version}/Lokyr-#{version}.dmg"
   name "Lokyr"
